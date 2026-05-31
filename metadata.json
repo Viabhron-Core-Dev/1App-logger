@@ -1,0 +1,6 @@
+{
+  "name": "LauncherLogger",
+  "description": "Standalone companion logger app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
